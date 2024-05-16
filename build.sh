@@ -20,7 +20,7 @@ cat << EOF
    ░              ░       ░   ░  ░  ░      ░  ░░ ░      ░  ░       ░  ░   ░  ░
                                                ░                              
 open source tool to bypass windows and linux passwords
-github : https://github.com/Fadi002/unshackle
+github : https://github.com/leesheedy/unshackle/
 EOF
 apt-get update
 apt-get install -y --no-install-recommends wget gawk debootstrap mtools xorriso ca-certificates curl libusb-1.0-0-dev gcc make gzip xz-utils unzip libc6-dev
